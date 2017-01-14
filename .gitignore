@@ -23,6 +23,7 @@ var/
 include/
 local/
 bin/
+pip-selfcheck.json
 *.egg-info/
 .installed.cfg
 *.egg
